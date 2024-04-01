@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HizeF's%20GitHub&fontSize=90&theme=tokyonight)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=10000&pause=3&color=2F9AE1&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello+World!!!)
+
 
 <!--
 **Hizef/Hizef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
